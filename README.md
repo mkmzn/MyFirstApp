@@ -1,1 +1,1 @@
-# MyTrainingApp
+# MyFirstApp
